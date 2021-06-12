@@ -1,4 +1,3 @@
-![Screenshot from 2021-06-13 04-24-38](https://user-images.githubusercontent.com/54617734/121790682-55b5aa00-cbff-11eb-814d-41ad64f1e0ed.png)
 # CrackDetection
 The project aims at creating a better speed variation for automated vehicles by predicting the amount of cracks on the road. Once the crack percentage on the roads exceeds certain limit, it warns vehicles to decrease its speed.
 #### **Brief Overview:**
@@ -23,3 +22,6 @@ The project aims at creating a better speed variation for automated vehicles by 
 
 
 #### **Sample Images:**
+![Screenshot from 2021-06-13 04-24-38](https://user-images.githubusercontent.com/54617734/121790682-55b5aa00-cbff-11eb-814d-41ad64f1e0ed.png)
+![Screenshot from 2021-06-13 04-25-48](https://user-images.githubusercontent.com/54617734/121790697-75e56900-cbff-11eb-8da7-794fc3ef308e.png)
+
