@@ -16,7 +16,11 @@ fp1=""
 # Create your views here.
 def index(request):    
     context={"a":1}
+    return render(request, 'index.html',context)
+def intro(request):    
+    context={"a":1}
     return render(request, 'intro.html',context)
+
 
 def output(request):
     

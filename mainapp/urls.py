@@ -5,13 +5,14 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
-    path('', views.index, name='index'),
+    path('', views.intro, name='intro'),
     path('index', views.index, name='index'),
     path('output',views.output,name='output'),
     path('predicted',views.predicted,name='predicted'),
     path('sendfile',views.sendfile,name='sendfile'),
     path('login',views.login,name='login'),
     path('register', views.register, name='register'),
+    path('intro',views.intro, name='intro')
 
 ]
 
