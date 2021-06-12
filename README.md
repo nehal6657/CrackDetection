@@ -19,3 +19,6 @@ The project aims at creating a better speed variation for automated vehicles by 
 -   IDEs used for coding: Visual Studio Code, Spyder
 -   The the database management system used here is postgresql to
     provide database for login and registration credentials
+
+
+#### **Sample Images:**
